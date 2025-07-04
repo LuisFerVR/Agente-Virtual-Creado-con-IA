@@ -1,12 +1,12 @@
-# Agente Virtual
+# Agente Virtual 🤖
 
-## Descripción General
+## 📝 Descripción General
 
 Agente Virtual es una aplicación web sencilla y amigable, diseñada especialmente para asistir a usuarios con poca relación tecnológica en la verificación y activación del servidor FTP necesario para el funcionamiento de escáneres. El sistema guía paso a paso al usuario, con mensajes claros y confirmaciones, asegurando que incluso personas con poca experiencia tecnológica puedan completar el proceso.
 
 ---
 
-## Estructura del Proyecto
+## 📂 Estructura del Proyecto
 
 - `index.html`: Página principal de la aplicación, contiene la estructura del chatbot.
 - `style.css`: Estilos visuales para una experiencia accesible y agradable.
@@ -14,7 +14,7 @@ Agente Virtual es una aplicación web sencilla y amigable, diseñada especialmen
 
 ---
 
-## Instalación y Uso
+## 🚀 Instalación y Uso
 
 1. **Descarga o clona el repositorio en tu computadora.**
 2. **Abre el archivo `index.html` en tu navegador web preferido.**
@@ -26,7 +26,7 @@ No se requiere instalación de dependencias ni servidores adicionales. Todo func
 
 ---
 
-## Flujo de Ayuda para el Servidor FTP
+## 💡 Flujo de Ayuda para el Servidor FTP
 
 Cuando el usuario menciona problemas con el escáner o el servidor FTP, el chatbot inicia un flujo guiado:
 
@@ -43,14 +43,14 @@ Cuando el usuario menciona problemas con el escáner o el servidor FTP, el chatb
 
 ---
 
-## Personalización
+## ⚙️ Personalización
 
 - Puedes modificar los mensajes y el flujo en `agent.js` para adaptarlos a otros procesos o necesidades.
 - Los estilos pueden personalizarse en `style.css` para mejorar la accesibilidad o la identidad visual.
 
 ---
 
-## Recomendaciones de Accesibilidad
+## ♿ Recomendaciones de Accesibilidad
 
 - Fuentes grandes y colores contrastantes para facilitar la lectura.
 - Botones grandes y claros.
@@ -58,24 +58,32 @@ Cuando el usuario menciona problemas con el escáner o el servidor FTP, el chatb
 
 ---
 
-## Soporte Técnico
+## 📞 Soporte Técnico
 
 Si el usuario no logra completar los pasos, el chatbot sugiere contactar a soporte técnico de manera amable y profesional.
 
 ---
 
-## Créditos y Licencia
+## 📜 Créditos y Licencia
 
 Desarrollado por Luis Fernando Vergara Ruiz.
 
 ---
 
-## Contacto
+## 📧 Contacto
 
 Para soporte o sugerencias, escribe a: luis.fer.vera.ruiz@gmail.com
 
 ---
 
-## Enlace de Publicación
+## 🌐 Enlace de Publicación
 
 Este proyecto ha sido publicado con GitHub Pages y Vercel, y puedes acceder a él a través del siguiente enlace: [https://agente-blue.vercel.app/](https://agente-blue.vercel.app/)
+
+---
+
+## 🚀 Deploy
+
+Este proyecto ha sido publicado con GitHub Pages y Vercel. Puedes acceder a la aplicación en vivo a través del siguiente enlace: [https://agente-blue.vercel.app/](https://agente-blue.vercel.app/)
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2FLuisFerVR%2FAgente-Virtual-Creado-con-IA)
