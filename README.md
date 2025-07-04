@@ -66,11 +66,10 @@ Si el usuario no logra completar los pasos, el chatbot sugiere contactar a sopor
 
 ## Créditos y Licencia
 
-Desarrollado por [Tu Nombre o Equipo].
-Licencia: MIT
+Desarrollado por Luis Fernando Vergara Ruiz.
 
 ---
 
 ## Contacto
 
-Para soporte o sugerencias, escribe a: soporte@tudominio.com
+Para soporte o sugerencias, escribe a: luis.fer.vera.ruiz@gmail.com
