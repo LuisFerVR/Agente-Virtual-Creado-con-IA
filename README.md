@@ -76,12 +76,6 @@ Para soporte o sugerencias, escribe a: luis.fer.vera.ruiz@gmail.com
 
 ---
 
-## 🌐 Enlace de Publicación
-
-Este proyecto ha sido publicado con GitHub Pages y Vercel, y puedes acceder a él a través del siguiente enlace: [https://agente-blue.vercel.app/](https://agente-blue.vercel.app/)
-
----
-
 ## 🚀 Deploy
 
 Este proyecto ha sido publicado con GitHub Pages y Vercel. Puedes acceder a la aplicación en vivo a través del siguiente enlace: [https://agente-blue.vercel.app/](https://agente-blue.vercel.app/)
