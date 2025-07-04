@@ -6,6 +6,39 @@ Agente Virtual es una aplicación web sencilla y amigable, diseñada especialmen
 
 ---
 
+## ⚠️ Problemática
+
+En entornos donde los usuarios no tienen un alto nivel de conocimiento tecnológico, la configuración y verificación de servicios como un servidor FTP para escáneres puede ser un desafío significativo. Esto a menudo resulta en:
+
+- **Frustración del usuario:** Dificultad para seguir instrucciones técnicas complejas.
+- **Dependencia del soporte técnico:** Necesidad constante de asistencia, lo que consume recursos y tiempo.
+- **Interrupción de flujos de trabajo:** Retrasos en tareas críticas debido a problemas de configuración.
+
+---
+
+## ✅ Solución Propuesta
+
+Agente Virtual aborda esta problemática ofreciendo una interfaz de chatbot intuitiva que guía al usuario paso a paso a través del proceso de verificación y activación del servidor FTP. La solución se centra en:
+
+- **Simplicidad:** Instrucciones claras y concisas, evitando jerga técnica.
+- **Interactividad:** El chatbot responde a las acciones del usuario y ofrece retroalimentación en tiempo real.
+- **Autonomía:** Empodera a los usuarios para resolver problemas comunes por sí mismos, reduciendo la carga del soporte técnico.
+- **Accesibilidad:** Diseñado para ser fácil de usar por personas con poca experiencia tecnológica.
+
+---
+
+## 🛠️ Stack Tecnológico
+
+Este proyecto fue desarrollado y gestionado utilizando las siguientes herramientas y tecnologías:
+
+- **Gemini CLI:** Utilizado como interfaz de línea de comandos para interactuar con el modelo de lenguaje Gemini, facilitando la automatización de tareas y la generación de código.
+- **Context7 (con MCPs):** Empleado para la gestión de dependencias y la integración de componentes, asegurando un desarrollo modular y eficiente.
+- **Desktop Commander:** Herramienta para la ejecución de comandos de shell y la interacción con el sistema de archivos local, crucial para la automatización de tareas de desarrollo.
+- **GitHub:** Plataforma de control de versiones utilizada para el alojamiento del repositorio, la colaboración y el despliegue continuo a través de GitHub Pages.
+- **HTML, CSS, JavaScript:** Tecnologías web fundamentales para la construcción de la interfaz de usuario y la lógica del chatbot.
+
+---
+
 ## 📂 Estructura del Proyecto
 
 - `index.html`: Página principal de la aplicación, contiene la estructura del chatbot.
