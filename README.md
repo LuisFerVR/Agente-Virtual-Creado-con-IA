@@ -2,7 +2,7 @@
 
 ## Descripción General
 
-Agente Virtual es una aplicación web sencilla y amigable, diseñada especialmente para asistir a usuarios de edad avanzada en la verificación y activación del servidor FTP necesario para el funcionamiento de escáneres. El sistema guía paso a paso al usuario, con mensajes claros y confirmaciones, asegurando que incluso personas con poca experiencia tecnológica puedan completar el proceso.
+Agente Virtual es una aplicación web sencilla y amigable, diseñada especialmente para asistir a usuarios con poca relación tecnológica en la verificación y activación del servidor FTP necesario para el funcionamiento de escáneres. El sistema guía paso a paso al usuario, con mensajes claros y confirmaciones, asegurando que incluso personas con poca experiencia tecnológica puedan completar el proceso.
 
 ---
 
